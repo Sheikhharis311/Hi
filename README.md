@@ -53,11 +53,12 @@ I(y) \propto \left|\mathcal{F}\{t(x)\}\right|^2
 $$
 
 ### Where:
+Where:
 
-- $ \lambda $ = wavelength  
-- $ d $ = slit separation  
-- $ L $ = screen distance  
-- $ t(x) $ = aperture transmission function  
+- \( \lambda \) = wavelength  
+- \( d \) = slit separation  
+- \( L \) = screen distance  
+- \( t(x) \) = aperture transmission function    
 
 ---
 
