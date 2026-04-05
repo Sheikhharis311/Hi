@@ -34,7 +34,7 @@ It serves as a **virtual optics laboratory** for:
 
 ## 👨‍💻 About Me
 
-I am **Sheikh Harish Raza**, an electronic engineering student at **KDK College of Engineering, Nagpur**.  
+I am **Sheikh Harish Raza**, an electrical engineering student at **KDK College of Engineering, Nagpur**.  
 
 ## ⚙️ Theoretical Foundation
 
