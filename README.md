@@ -55,7 +55,7 @@ $$
 ### Where:
 Where:
 
-- \( \lambda \) = wavelength  
+- \( lambda \) = wavelength  
 - \( d \) = slit separation  
 - \( L \) = screen distance  
 - \( t(x) \) = aperture transmission function    
